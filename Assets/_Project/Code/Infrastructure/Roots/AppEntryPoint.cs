@@ -1,5 +1,6 @@
 ﻿using Constants;
 using Infrastructure.DI;
+using Infrastructure.Roots.AppRoot;
 using Infrastructure.Roots.AppRoot.Services.AssetInstantiate;
 using Infrastructure.Roots.AppRoot.Services.ResourceLoader;
 using Infrastructure.Roots.AppRoot.Services.SceneLoader;
@@ -7,7 +8,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using Utils.Coroutiner;
 
-namespace Infrastructure.Roots.AppRoot
+namespace Infrastructure.Roots
 {
 	public sealed class AppEntryPoint
 	{
