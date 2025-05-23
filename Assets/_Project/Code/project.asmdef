@@ -2,7 +2,9 @@
     "name": "project",
     "rootNamespace": "",
     "references": [
-        "GUID:1e6bb5cb07b00d24db8b3847442a4b4b"
+        "GUID:1e6bb5cb07b00d24db8b3847442a4b4b",
+        "GUID:4217fb94eed755b428b9221e8eb44516",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
